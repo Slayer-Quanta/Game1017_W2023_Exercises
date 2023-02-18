@@ -1,0 +1,8 @@
+﻿<Info>
+    <Turret x.Position="200" y.Position="180" kills="0"/>
+    <Turret x.Position="320" y.Position="80" kills="0"/>
+    <Turret x.Position="720" y.Position="420" kills="0"/>
+    <Turret x.Position="690" y.Position="20" kills="0"/>
+    <Turret x.Position="400" y.Position="120" kills="0"/>
+    <Turret x.Position="800" y.Position="480" kills="0"/>
+</Info>

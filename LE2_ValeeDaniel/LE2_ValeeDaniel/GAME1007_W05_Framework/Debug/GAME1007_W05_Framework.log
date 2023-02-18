@@ -1,0 +1,28 @@
+﻿  Bullet.cpp
+C:\Users\danie\Downloads\LE2_Checkpoint\LE2_LastnameFirstname\GAME1007_W05_Framework\Bullet.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CollisionManager.cpp
+C:\Users\danie\Downloads\LE2_Checkpoint\LE2_LastnameFirstname\GAME1007_W05_Framework\CollisionManager.h(4,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Enemy.cpp
+C:\Users\danie\Downloads\LE2_Checkpoint\LE2_LastnameFirstname\GAME1007_W05_Framework\Enemy.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Engine.cpp
+C:\Users\danie\Downloads\LE2_Checkpoint\LE2_LastnameFirstname\GAME1007_W05_Framework\Engine.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  EventManager.cpp
+C:\Users\danie\Downloads\LE2_Checkpoint\LE2_LastnameFirstname\GAME1007_W05_Framework\EventManager.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameObject.cpp
+C:\Users\danie\Downloads\LE2_Checkpoint\LE2_LastnameFirstname\GAME1007_W05_Framework\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SDL_rect.h': No such file or directory
+  Main.cpp
+C:\Users\danie\Downloads\LE2_Checkpoint\LE2_LastnameFirstname\GAME1007_W05_Framework\Engine.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MathManager.cpp
+C:\Users\danie\Downloads\LE2_Checkpoint\LE2_LastnameFirstname\GAME1007_W05_Framework\MathManager.h(5,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  RenderManager.cpp
+C:\Users\danie\Downloads\LE2_Checkpoint\LE2_LastnameFirstname\GAME1007_W05_Framework\RenderManager.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  StateManager.cpp
+C:\Users\danie\Downloads\LE2_Checkpoint\LE2_LastnameFirstname\GAME1007_W05_Framework\Turret.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  States.cpp
+C:\Users\danie\Downloads\LE2_Checkpoint\LE2_LastnameFirstname\GAME1007_W05_Framework\Turret.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TextureManager.cpp
+C:\Users\danie\Downloads\LE2_Checkpoint\LE2_LastnameFirstname\GAME1007_W05_Framework\TextureManager.h(5,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  tinyxml2.cpp
+  Turret.cpp
+C:\Users\danie\Downloads\LE2_Checkpoint\LE2_LastnameFirstname\GAME1007_W05_Framework\Turret.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
