@@ -1,3 +1,17 @@
-﻿  States.cpp
-C:\Users\danie\Documents\GitHub\Game1017_W2023_Labs-Assignments\LE2_ValeeDaniel\LE2_ValeeDaniel\GAME1007_W05_Framework\States.cpp(117,37): warning C4552: '+': result of expression not used
-  GAME1007_W05_Framework.vcxproj -> C:\Users\danie\Documents\GitHub\Game1017_W2023_Labs-Assignments\LE2_ValeeDaniel\LE2_ValeeDaniel\Bin\GAME1007_W05_Framework.exe
+﻿  Bullet.cpp
+  CollisionManager.cpp
+  Enemy.cpp
+  Engine.cpp
+  EventManager.cpp
+  GameObject.cpp
+  Main.cpp
+  MathManager.cpp
+  RenderManager.cpp
+  StateManager.cpp
+  States.cpp
+C:\Users\danie\Documents\GitHub\Game1017_W2023_Exercises\LE2_ValeeDaniel\LE2_ValeeDaniel\GAME1007_W05_Framework\States.cpp(117,37): warning C4552: '+': result of expression not used
+  TextureManager.cpp
+  tinyxml2.cpp
+  Turret.cpp
+  Generating Code...
+  GAME1007_W05_Framework.vcxproj -> C:\Users\danie\Documents\GitHub\Game1017_W2023_Exercises\LE2_ValeeDaniel\LE2_ValeeDaniel\Bin\GAME1007_W05_Framework.exe

@@ -1,0 +1,4 @@
+﻿  Ship.cpp
+C:\Users\danie\Downloads\GAME1017_LE3_LastnameFirstname (1)\GAME1017_LE3_LastnameFirstname\GAME1017_Framework\Ship.cpp(108,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\Downloads\GAME1017_LE3_LastnameFirstname (1)\GAME1017_LE3_LastnameFirstname\GAME1017_Framework\Ship.cpp(109,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  GAME1017_Framework.vcxproj -> C:\Users\danie\Downloads\GAME1017_LE3_LastnameFirstname (1)\GAME1017_LE3_LastnameFirstname\Bin\GAME1017_Framework.exe
